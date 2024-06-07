@@ -153,7 +153,7 @@ Description:
 {%- if question_str %}
 
 =====
-Here are questions to better understand the PR. Use the answers to provide better feedback.
+Here are questions to better understand the PR. Use the answers to provide the better feedback.
 
 {{ question_str|trim }}
 
